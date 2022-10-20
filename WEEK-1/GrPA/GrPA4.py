@@ -1,0 +1,6 @@
+s = str(input())
+print(s[0:2])
+print(s[3:5])
+print(s[6:8])
+print(s[9:13])
+print(s[35:39])
