@@ -9,3 +9,4 @@ def list_to_dict(L):
     for key, value in L:
         D[key] = value
     return D
+print(list_to_dict([('def', 10), ('abc', 3)]))
