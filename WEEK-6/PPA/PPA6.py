@@ -5,4 +5,4 @@ def get_marks(scores_dataset, subject):
         name = student['Name']
         L.append((name, marks))
     return L
-print(get_marks(100, 'Physics'))
+# print(get_marks(scores_dataset, 'Physics'))
